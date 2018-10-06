@@ -22,7 +22,7 @@
 
     <Button
         android:id="@+id/buttonS"
-        android:text="Registra ae cuzon"
+        android:text="Registra ae "
         android:onClick="Registrar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
